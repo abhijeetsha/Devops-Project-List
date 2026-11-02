@@ -1,0 +1,2 @@
+# Que:- How to explain this project in an interview.
+## Ans:- I deployed a web application on an AWS EC2 Ubuntu server using Nginx and MySQL. I configured Nginx as a reverse proxy to forward incoming HTTP requests to the Node.js application. I installed and configured MySQL for database management, connected the application to MySQL, and implemented user registration and login functionality. I also configured systemd to automatically start the application after server reboot and used Linux commands to monitor services and troubleshoot deployment issues.
